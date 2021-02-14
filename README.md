@@ -1,4 +1,4 @@
-# terraform
+# Terraform
 ## 1.Create VPC
 # 2. Create Internet Gateway
 # 3. custom route table
